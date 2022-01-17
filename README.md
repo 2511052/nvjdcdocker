@@ -20,7 +20,7 @@
 
 # 1安装ASP.NET Core Runtime 5.0.12
 
-安装地址:https://dotnet.microsoft.com/download/dotnet/5.0
+安装地址:https://dotnet.microsoft.com/zh-cn/download/dotnet/5.0
 下载之后无脑下一步
 
 # 2下载当前项目源码解压
