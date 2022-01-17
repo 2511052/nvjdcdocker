@@ -51,11 +51,11 @@
 1拉源码
 国内
 ```
-git clone https://ghproxy.com/https://github.com/NolanHzy/nvjdcdocker.git /root/nolanjdc
+git clone https://ghproxy.com/https://github.com/2511052/nvjdcdocker.git /root/nolanjdc
 ```
 国外
 ```
-git clone https://github.com/NolanHzy/nvjdcdocker.git /root/nolanjdc
+git clone https://github.com/2511052/nvjdcdocker.git /root/nolanjdc
 ```
 
 
@@ -219,7 +219,7 @@ docker logs -f nolanjdc
 ## Arm安装教程
 
 
-安装地址 https://github.com/NolanHzy/nvjdcdocker/blob/main/Arm%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.md
+安装地址 https://github.com/2511052/nvjdcdocker/blob/main/Arm%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.md
 
 
 ## 1.2以前如何更新之1.2
@@ -236,11 +236,11 @@ mv /root/nolanjdc /root/nolanjdcdb
 然后执行步骤一 拉取代码
 国内
 ```
-git clone https://ghproxy.com/https://github.com/NolanHzy/nvjdcdocker.git /root/nolanjdc
+git clone https://ghproxy.com/https://github.com/2511052/nvjdcdocker.git /root/nolanjdc
 ```
 国外
 ```
-git clone https://github.com/NolanHzy/nvjdcdocker.git /root/nolanjdc
+git clone https://github.com/2511052/nvjdcdocker.git /root/nolanjdc
 ```
 
 
